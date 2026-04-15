@@ -35,7 +35,7 @@ PHONE_NUMBER = "+79789927572"
 ADMIN_CHAT_ID = -1003701168467
 PUBLIC_GROUP_ID = -1003578178561
 
-YANDEX_LINK = "https://share.google/Tqn6l2X7GmhaTTcC2"
+YANDEX_LINK = "https://yandex.ru/maps/org/kakmakdak/161927095302"
 WORKING_HOURS = "Ежедневно 15:00-03:00"
 DATA_FILE = "bot_storage.json"
 
